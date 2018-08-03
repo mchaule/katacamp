@@ -1,0 +1,2 @@
+# katacamp
+Training Kata exercices
